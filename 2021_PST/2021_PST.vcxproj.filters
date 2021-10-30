@@ -18,5 +18,11 @@
     <ClCompile Include="W9_A.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="W9_B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
